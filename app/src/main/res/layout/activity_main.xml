@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
       android:layout_marginTop="20dp"
         android:onClick="record"
-        android:text="Record"
+        android:text="Record Video"
         />
 
     <Button
